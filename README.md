@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **sujal31122005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** Springboot
-- 🤔 **I’m looking for help with:** Your project here
+- 🌱 **I’m currently learning:** Springboot and JavaScript
+- 🤔 **I’m looking for help with:** AI Projects.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:** Sujal
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
